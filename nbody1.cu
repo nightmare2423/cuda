@@ -146,5 +146,5 @@ int main(const int argc, const char** argv) {
   /*
    * Feel free to modify code below.
    */
-  free(buf);
+  cudaFree(buf);
 }
