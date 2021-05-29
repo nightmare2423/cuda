@@ -1,4 +1,4 @@
-# Nody程序优化
+# Nbody程序优化
 
 ## nbody.cu
 - 基准串行代码
